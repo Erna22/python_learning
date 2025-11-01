@@ -5,3 +5,9 @@ contacts.csv
 movies.json
 .env
 */weather_logs.csv
+converted_data.csv
+converted_data.json
+flattened_data.json
+valut.txt
+02_data_handling/vault.key
+02_data_handling/notes_vault.json
